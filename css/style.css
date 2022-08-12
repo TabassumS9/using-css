@@ -1,0 +1,58 @@
+h1{
+    color: darkgreen;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    text-transform: capitalize;
+
+}
+span{
+    color: darkmagenta;
+    text-align: center;
+}
+h4{
+    text-align:center;
+    color:orange;
+}
+p{
+    text-align: center;
+    color:brown;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 30px;
+}
+img{
+    width: 100%;
+    border-radius: 75px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    width: 150px;
+    height:50px;
+    display: block;
+    text-align: center;
+    line-height: 50px;
+    color:white;
+    border-radius: 10px;
+}
+h1 span{
+    color:darkmagenta;
+}
+p span{
+    text-align: center;
+    color:black;
+    text-align: justify;
+}
+#heading{
+    text-align: center;
+}
+#firstp{
+    color:blue;
+}
+#secondp{
+    color: darkmagenta;
+}
+#lastp{
+    color:seagreen;
+}
